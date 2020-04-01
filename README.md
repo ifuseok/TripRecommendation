@@ -7,7 +7,7 @@
 - https://arxiv.org/pdf/1511.06939.pdf
 ### 딥러넹 프레임워크
 - Tensorflow 1.x version
-### 모델링 과정
+### 모델링 및 변환
 1. Tensorflow 모델링 and save 
 2. Tensorflow weight를 .pb로 변환
 3. coreML을 이용해 .ml형태로 모델 최종 변환
